@@ -1,0 +1,3 @@
+# Requirements for Portable Color & Defect Inspector (Q6)
+opencv-python
+numpy

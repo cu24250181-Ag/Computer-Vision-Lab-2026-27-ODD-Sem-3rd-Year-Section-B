@@ -1,0 +1,4 @@
+# Requirements for Real-Time AR Filter Overlay (Q10)
+mediapipe
+opencv-python
+numpy

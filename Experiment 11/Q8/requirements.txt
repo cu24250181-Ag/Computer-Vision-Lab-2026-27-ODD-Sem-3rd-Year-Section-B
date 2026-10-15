@@ -1,0 +1,3 @@
+# Requirements for Real-Time OCR Text Reader (Q8)
+opencv-python
+pytesseract

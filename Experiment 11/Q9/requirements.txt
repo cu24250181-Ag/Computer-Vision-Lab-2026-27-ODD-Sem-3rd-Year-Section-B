@@ -1,0 +1,4 @@
+# Requirements for Mobile Driver Drowsiness / Blink Monitor (Q9)
+mediapipe
+opencv-python
+numpy

@@ -1,0 +1,4 @@
+# Requirements for Virtual Whiteboard / Air Painting App (Q7)
+opencv-python
+numpy
+mediapipe==0.10.21
